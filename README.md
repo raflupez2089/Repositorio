@@ -1,2 +1,1 @@
-# Repositorio
-Ejemplo de mi primer repositorio
+Como clonarlo un repositorio- github navegar
